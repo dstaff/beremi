@@ -1,4 +1,4 @@
-BEREMI Soft
-Software to manage the schools, colleges and universitys
-Using Native PHP and MariaDB as back-end
-Using Admin LTE Template as frond-end
+BEREMI Soft<br>
+Software to manage the schools, colleges and universitys<br>
+Using Native PHP and MariaDB as back-end<br>
+Using Admin LTE Template as frond-end<br>
